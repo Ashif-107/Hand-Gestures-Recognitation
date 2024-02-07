@@ -28,5 +28,5 @@ This repository contains the following contents.
 # :v: Author
 :leaves: Kazuhito Takahashi(https://twitter.com/KzhtTkhs)
 
-# :v: ranslation and other improvements
+# :v: Translation and other improvements
 :leaves: Nikita Kiselov(https://github.com/kinivi)
